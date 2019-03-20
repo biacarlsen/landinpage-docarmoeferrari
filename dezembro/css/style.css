@@ -1,0 +1,38 @@
+.separador {
+	width: 85px;
+    height: 4px;
+    background: #d2ac67;
+    margin:0 auto;
+ 
+}
+
+.separador2 {
+	width: 85px;
+    height: 4px;
+    background: #d2ac67;
+
+ 
+}
+
+.btn-azul {
+	border-color:#0051B2 !important;
+	color:#0051B2 !important;
+}
+
+.btn-azul:hover,
+.btn-azul:focus
+ {
+	border-color:#0051B2 !important;
+	color:#0051B2 !important;
+}
+.card-wrapper .avatar{
+	    background: #fff5e5 !important;
+}
+
+.bolinhanao {
+ list-style-type: none;
+ }
+
+.up-font {
+	font-size: 22px !important;
+}
